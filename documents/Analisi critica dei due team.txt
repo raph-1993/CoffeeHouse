@@ -1,0 +1,20 @@
+________________TEAM 1_________________
+
+NELLA PRESENTAZIONE:
+- Coffee, non Coffe; CoffeeHouse tutto attaccato, non staccato;
+
+NELLA DEMO DEL SITO:
+- Pagina menu: ci sono solo caffè (mancano prodotti tè e pasticceria);
+- Header di altezza diversa nelle diverse pagine;
+- La mappa dà una posizione non congruente;
+- Nella pagina "chi siamo" i titoli sono con diversa distanza dai paragrafi;
+- Bottoni dei form piccoli e non appare la manina link.
+
+IL PROF DICE:
+- Non sono specificate le tecnologie utilizzate (HTML e CSS);
+- I div non hanno dimensioni uniformi, come anche i form, i margini e i padding;
+
+______________TEAM 2 (NOI)______________
+
+- Resposiveness da sistemare
+- Bottone e form da sistemare
